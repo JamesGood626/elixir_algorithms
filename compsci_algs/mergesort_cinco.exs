@@ -1,4 +1,6 @@
 defmodule MergeSort do
+  # Hmmm.... Implemented a sorting alg in Clojure that leveraged
+  # divide and conquer... yet I had tries three times to implement merge sort here?...
   def merge_sort(list) do
     list_len = length(list)
 
